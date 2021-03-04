@@ -1,0 +1,59 @@
+* {
+	box-sizing: border-box;
+}
+
+ul {
+   	background-color: #333;
+    list-style: none;
+    color: #ccc;
+    padding-left: .5rem;
+    margin: 0;
+}
+
+li {
+	display: inline-block;
+	padding: .5rem;
+}
+
+.action{
+	background-color: #ccc;
+	color: #333;
+}
+
+.carousel{
+	background-color: #eee;
+	height: 200px;
+}
+
+article{
+	background-color: #ccc;
+    display: inline-block;
+    width: 30%;
+    border:	0;
+    height: 250px;
+   	padding: 10px;
+}
+
+h2{
+	text-align: center;
+}
+
+em{
+	font-style: normal;
+	font-size: .5em;
+}
+
+form{
+	border-top: 2px solid black;
+	margin-top: 100px;
+}
+
+input, textarea{
+	width: 80%;
+	display: block;
+	margin: 10px;
+}
+
+#Contact{
+	text-align: left;
+}
