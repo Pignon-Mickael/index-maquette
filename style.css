@@ -34,7 +34,7 @@ article{
 }
 
 #article{
-	margin: auto;
+	text-align: center;
 }
 
 h2{
@@ -49,12 +49,13 @@ em{
 form{
 	border-top: 2px solid black;
 	margin-top: 100px;
+
 }
 
 input, textarea{
 	width: 80%;
 	display: block;
-	margin: 10px;
+	margin: 10px auto;
 }
 
 #Contact{
